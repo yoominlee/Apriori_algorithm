@@ -1,2 +1,3 @@
 # Apriori_algorithm
-association rule using the Apriori algorithm
+ITE4005_DataScience Assignment1
+Find ssociation rule using the Apriori algorithm
